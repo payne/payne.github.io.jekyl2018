@@ -21,6 +21,9 @@ url: "http://MattPayne.org" # the base hostname & protocol for your site
 twitter_username: MattPayneOrg
 github_username:  payne
 
+bg: black
+color: white
+
 # Build settings
 markdown: kramdown
 theme: minima
